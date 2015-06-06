@@ -1,28 +1,5 @@
-== README
+== Rails 4 X-editable-rails demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please read commits
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+{Complete guide}[https://www.evernote.com/shard/s365/sh/b2517d45-3335-4801-9300-d1394eb0ba16/90675dd276ceb9ae39febff160e50e2a]
